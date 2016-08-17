@@ -1,2 +1,1 @@
-# FiniteStateMachineSearcherJava
-Search engine based on finite state machine in Java
+# Search engine based on finite state machine in Java
